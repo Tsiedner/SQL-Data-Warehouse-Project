@@ -1,4 +1,4 @@
-# SQL-Vendor-Spend-Data-Warehouse-Project
+# Vendor Spend Data Warehouse Project
 Building a modern data warehouse using PostgreSQL, including ETL processes, data modeling, and analytics.
 
 ## 📌 Project Overview
