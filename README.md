@@ -8,7 +8,7 @@ The goal is to showcase end-to-end analytics engineering capabilities: data inge
 
 
 ## 🛠️ Tech Stack
-- **SQL** (Postgres/MySQL) for data wrangling and transformations
+- **SQL** (Postgres) for data wrangling and transformations
 - **Power BI** for dashboards and visualization
 - **GitHub** for documentation and reproducibility 
 
